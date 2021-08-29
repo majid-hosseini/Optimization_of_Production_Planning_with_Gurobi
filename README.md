@@ -27,10 +27,12 @@ This project is an implementation of Gurobi optimization solver to identify the 
 The optimized hours and cost of each production line for each day identified by the Gurobi solver were printed in a dataframe structure as follows:
 
 Optimized hours for each of the production lines
-<img src="Output/Hours_production_lines.png" alt="drawing" width="200"/>
+
+<img src="Output/Hours_production_lines.png" alt="drawing" width="500"/>
 
 Optimized cost for each of the production lines
-![Cost_production_lines.png](Output/Cost_production_lines.png)
+
+<img src="Output/Cost_production_lines.png" alt="drawing" width="500"/>
 
 ## Dependencies
 * Pandas
