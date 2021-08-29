@@ -28,7 +28,7 @@ The optimized hours and cost of each production line for each day identified by 
 
 Optimized hours for each of the production lines
 
-<img src="Output/Hours_production_lines.png" alt="drawing" width="500"/>
+<img src="Output/Hours_production_lines.png" alt="drawing" width="400"/>
 
 Optimized cost for each of the production lines
 
